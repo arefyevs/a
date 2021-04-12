@@ -1,0 +1,39 @@
+html {
+    font-size: 14px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Oswald', sans-serif;
+    background-color: #e7e68fdc;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #e0f17e;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+  }
+
+  h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: #000000;
+  }
+
+  h2 {
+    margin: 0;
+    padding: 1px 0;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: normal;
+    letter-spacing: 1px;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }

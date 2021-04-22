@@ -1,5 +1,5 @@
 html {
-    font-size: 30px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
     font-family: 'Oswald', sans-serif;
     background-color: #e7e68fdc;
   }
@@ -28,7 +28,7 @@ html {
   }
   
   p, li {
-    font-size: 30px;
+    font-size: 20px;
     line-height: normal;
     letter-spacing: 1px;
   }
